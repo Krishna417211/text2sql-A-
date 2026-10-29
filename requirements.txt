@@ -1,0 +1,7 @@
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langgraph
+langsmith
+sqlalchemy
